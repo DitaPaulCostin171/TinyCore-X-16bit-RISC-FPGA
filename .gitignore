@@ -1,0 +1,16 @@
+.Xil/
+TinyCoreX.cache/
+TinyCoreX.hw/
+TinyCoreX.ip_user_files/
+TinyCoreX.runs/
+TinyCoreX.sim/
+
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.dcp
+
+vivado*
+xsim*
